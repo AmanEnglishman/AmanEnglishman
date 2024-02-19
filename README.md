@@ -1,0 +1,1 @@
+# Aybatbek-uulu-Amandyk
