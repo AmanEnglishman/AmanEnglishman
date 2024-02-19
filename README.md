@@ -1,5 +1,4 @@
-# Aybatbek-uulu-Amandyk
-  # Dastan-Oskonbaev
+# Aman-Englishman
 HI ! I'm Dastan Oskonbaev, Python Backend Developer, it's my profile.
 
 🛠 Technology stack:
