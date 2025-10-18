@@ -32,9 +32,9 @@ I love turning ideas into reliable backend systems, building RESTful APIs, and o
 ---
 
 ### 🌍 Find me around the web
-- 📬 Telegram: [@yourusername](https://t.me/yourusername)
+- 📬 Telegram: [@username](https://t.me/username)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🌱 email: [yourwebsite.com](https://yourwebsite.com)
+- 🌱 email: [englishmanaman@gmail.com](englishmanaman@gmail.com)
 
 ---
 
