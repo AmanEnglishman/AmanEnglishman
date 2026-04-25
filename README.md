@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Aibatbek uulu Amandyk
+# 👋 Hi there! I'm Dilnaz
 
 💻 **Python Backend Developer | API Engineer | Automation Enthusiast**
 
